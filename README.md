@@ -1,30 +1,45 @@
-# 👋 Hi there, I'm Landra!
+👋 Hi there, I'm Landra!
 
-Welcome to my GitHub profile! I'm a full-stack developer, learner, cybersecurity enthusiast and 3D designer from Rwanda.
+Welcome to my GitHub profile! I'm a full-stack developer, learner, cybersecurity enthusiasist and 3d designer from Rwanda.
 
-### About Me
-- I'm currently learning **Flutter**, **typescript** and **Next.js**
-- My goal is to become a **successful software developer**
-- I'm a Rwandan*
+---
 
-### Technologies & Tools
+## 🚀 About Me
 
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
-<framework><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></framework>
-<styling><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" /></styling>
-<3d><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" /></3d>
-<version><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></version>
+- 💻 I’m currently learning **Flutter, typescript and Next.js**
+- 🎯 My goal is to become a **successful software developer**
+- 🌍 I'm from **Rwanda** 🇷🇼*
 
-<br>
+---
 
-### GitHub Stats
+## 🛠️ Technologies & Tools
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&hide_border=true&show_icons=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=tokyonight&hide_border=true&layout=compact)
+<p>
+  <img src="https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/Framework-React-blue?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Styling-TailwindCSS-teal?style=for-the-badge&logo=tailwind-css" />
+  <img src="https://img.shields.io/badge/3D-Blender-orange?style=for-the-badge&logo=blender" />
+  <img src="https://img.shields.io/badge/Version Control-Git-orange?style=for-the-badge&logo=git" />
+</p>
 
-<br>
+---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Landraa&label=Profile%20views&color=0e75b8&style=flat" alt="profile views" />
-</div>
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=keliaa1&show_icons=true&theme=radical" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=keliaa1&theme=radical" width="47%" />
+</p>
+
+---
+
+## 📫 Connect with Me
+
+- LinkedIn: https://www.linkedin.com/feed/
+- Portfolio: https://landrav2.vercel.app/
+- Email: landrate2000@gmail.com
+
+---
+
+> _“Code is the closest thing we have to magic.”_ ✨
