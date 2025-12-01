@@ -29,20 +29,18 @@ Welcome to my GitHub profile! I'm a full-stack developer, learner, cybersecurity
 
 ![](https://github-readme-stats.vercel.app/api?username=landrate2000&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=landrate2000&theme=tokyonight&hide_border=true&layout=compact)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=landrate2000&theme=tokyonight&hide_border=true)
 
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=landrate2000&label=Profile%20views&color=0e75b6&style=flat" alt="landrate2000" />
+  <img src="https://komarev.com/ghpvc/?username=landrate2000&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </div>
----
 
 ## 📫 Connect with Me
 
 - LinkedIn: https://www.linkedin.com/feed/
-- Portfolio: https://landrav2.vercel.app/
+- Portfolio: https://inezahdev2.vercel.app/
 - Email: landrate2000@gmail.com
 
 ---
