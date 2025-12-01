@@ -27,11 +27,16 @@ Welcome to my GitHub profile! I'm a full-stack developer, learner, cybersecurity
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=keliaa1&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=keliaa1&theme=radical" width="47%" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=landrate2000&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=landrate2000&theme=tokyonight&hide_border=true&layout=compact)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=landrate2000&theme=tokyonight&hide_border=true)
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=landrate2000&label=Profile%20views&color=0e75b6&style=flat" alt="landrate2000" />
+</div>
 ---
 
 ## 📫 Connect with Me
