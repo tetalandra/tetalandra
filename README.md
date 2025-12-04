@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a full-stack developer, learner, cybersecurity
 
 ## 🚀 About Me
 
-- 💻 I’m currently learning **Flutter, typescript and Next.js**
+- 💻 I’m currently learning **React native, typescript and Next.js**
 - 🎯 My goal is to become a **successful software developer**
 - 🌍 I'm from **Rwanda** 🇷🇼*
 
@@ -45,4 +45,4 @@ Welcome to my GitHub profile! I'm a full-stack developer, learner, cybersecurity
 
 ---
 
-> _“Code is the closest thing we have to magic.”_ ✨
+> _“Coding is not about being perfect — it’s about being curious enough to keep trying.”_ ✨
