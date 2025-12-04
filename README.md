@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a full-stack developer, learner, cybersecurity
   <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript" />
   <img src="https://img.shields.io/badge/Framework-React-blue?style=for-the-badge&logo=react" />
   <img src="https://img.shields.io/badge/Styling-TailwindCSS-teal?style=for-the-badge&logo=tailwind-css" />
-  <img src="https://img.shields.io/badge/3D-Blender-orange?style=for-the-badge&logo=blender" />
+  <img src="https://img.shields.io/badge/Nextjs-orange?style=for-the-badge&logo=nextjs" />
   <img src="https://img.shields.io/badge/Version Control-Git-orange?style=for-the-badge&logo=git" />
 </p>
 
