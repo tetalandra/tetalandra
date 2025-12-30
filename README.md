@@ -40,7 +40,7 @@ Welcome to my GitHub profile! I'm a full-stack developer, learner, cybersecurity
 ## 📫 Connect with Me
 
 - LinkedIn: https://www.linkedin.com/feed/
-- Portfolio: https://inezahdev2.vercel.app/
+- Portfolio: https://inezahdev3.vercel.app/
 - Email: landrate2000@gmail.com
 
 ---
