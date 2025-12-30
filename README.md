@@ -1,6 +1,6 @@
 👋 Hi there, I'm Landra!
 
-Welcome to my GitHub profile! I'm a full-stack developer, learner, cybersecurity enthusiasist and UI/UX designer from Rwanda.
+Welcome to my GitHub profile! I'm a full-stack developer, student, cybersecurity enthusiasist and UI/UX designer from Rwanda.
 
 ---
 
